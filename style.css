@@ -27,6 +27,12 @@ nav ul li {
   list-style: none;
 }
 
+/* Optional: Style the active navigation link */
+nav ul li a.active {
+  background-color: #575757;
+  color: white;
+}
+
 nav ul li a {
   color: white;
   padding: 14px 20px;
